@@ -27,12 +27,12 @@
     "@types/koa-static": "^4.0.0",
     "@types/koa-views": "^2.0.3",
     "@types/ws": "^6.0.1",
-    "ejs": "^2.6.1",
+    "ejs": "^3.1.10",
     "koa": "^2.6.2",
     "koa-static": "^5.0.0",
     "koa-views": "^6.1.5",
     "supervisor": "^0.12.0",
     "ws": "^6.1.2",
-    "yargs": "^12.0.5"
+    "yargs": "^17.7.2"
   }
 }
