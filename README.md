@@ -8,10 +8,10 @@ A simple and configurable mock server with UI console for websocket, with which 
 npm install websocket-mock-server
 ```
 
-## [github repo](https://github.com/EmiyaYang/websocket-mock-server)
+## [github repo](git@github.com:anuraagshakya/websocket-mock-server.git)
 
 ```
-git clone https://github.com/EmiyaYang/websocket-mock-server.git
+git clone git@github.com:anuraagshakya/websocket-mock-server.git
 ```
 
 You may need to install npm and type script.
