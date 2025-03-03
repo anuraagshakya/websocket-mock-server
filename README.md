@@ -14,9 +14,26 @@ npm install websocket-mock-server
 git clone https://github.com/EmiyaYang/websocket-mock-server.git
 ```
 
+You may need to install npm and type script.
+
+Install npm:
+```
+brew install npm
+```
+
+Install typescript:
+```
+npm install -g typescript 
+```
+
+Preparation:
 ```
 npm install
 npm run build
+```
+
+Run:
+```
 npm run test
 ```
 
@@ -40,6 +57,12 @@ module.exports = {
   // set the delay time before sending auto message 
   autoMsgTimeout: 1000,
 };
+```
+
+# Run - default configurations
+
+```
+npm run test
 ```
 
 # Run
